@@ -1,2 +1,2 @@
 # PythonProjects
-A Repository Containing Open Source Projects in Python, Beginner Level And Average Level And Pro Level.
+مستودع يحتوي على مشاريع مفتوحة المصدر بلغة بايثون، مستوى مبتدئ ومتوسط وإحترافي.
